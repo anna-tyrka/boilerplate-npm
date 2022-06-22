@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Anna Tyrka",
 	"description": "A project to learn basic Node JS",
-	"keywords": ["nodejs", "express", "javascript"],
+	"keywords": ["nodejs", "express", "javascript", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
